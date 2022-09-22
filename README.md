@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 🛸
 
 <!--
 **zpm683/zpm683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Live in the future and build what is missing.
 
 ![](https://github-readme-stats.vercel.app/api?username=zpm683)
